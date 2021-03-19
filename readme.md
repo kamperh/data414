@@ -6,6 +6,6 @@ Data Analytics 414
 
 License
 -------
-Copyright (C) 2020-2021, Herman Kamper.  
-The content here is licensed under a Creative Commons Attribution-ShareAlike
+&copy; 2020-2021, Herman Kamper.  
+This work is licensed under a Creative Commons Attribution-ShareAlike
 license ([CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)).
