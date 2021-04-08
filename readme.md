@@ -1,7 +1,7 @@
 Data Analytics 414
 ==================
 
-- [Practical notebook: Python and NumPy](practicals/python_numpy/python_numpy.ipynb) [[colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/python_numpy/python_numpy.ipynb)]
+- [Practical: Python and NumPy](practicals/python_numpy/python_numpy.ipynb) [[colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/python_numpy/python_numpy.ipynb)]
 - [Practical: Linear regression](practicals/linear_regression/data414_linear_regression.ipynb) [[colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/linear_regression/data414_linear_regression.ipynb)]
 
 License
