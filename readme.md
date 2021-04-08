@@ -4,9 +4,7 @@ Data Analytics 414
 - [Practical notebook: Python and NumPy](practicals/python_numpy/python_numpy.ipynb) [[colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/python_numpy/python_numpy.ipynb)]
 - [Practical notebook: Linear regression](practicals/linear_regression/data414_linear_regression.ipynb)
 [[colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/linear_regression/data414_linear_regression.ipynb)]
-- [Practical notebook: Classification](practicals/classification/data414_classification.ipynb)
-[[data1](practicals/classification/admissions.csv), [data2](practicals/classification/default.csv), [data3](practicals/classification/microchip.csv),
-[colab]()]
+- [Practical notebook: Classification](practicals/classification/data414_classification.ipynb) [[data](practicals/classification/), [colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/classification/data414_classification.ipynb)]
 
 License
 -------
