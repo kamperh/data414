@@ -38,10 +38,10 @@ Frequently asked questions
 --------------------------
 - Where do I find the slides? For some consecutive videos, the slides are
   combined into a single PDF. So just download the slides for the next video
-  in the sequence.
-- For practicals, what is the difference between the main link and `colab`? If
+  in the sequence that has slides.
+- For practicals, what is the difference between the main link and *colab*? If
   you click the notebook directly, then it will download the Jupyter notebook
-  to your computer. If you click the `colab` link, then it will open the
+  to your computer. If you click the *colab* link, then it will open the
   notebook directly in your browser in a new [Google Colab
   session](https://colab.research.google.com/).
 
