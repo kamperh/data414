@@ -9,7 +9,7 @@ Introduction to machine learning
 Linear regression
 -----------------
 - [Simple linear regression](https://youtu.be/L5-lxSGO9bM) (14 min) [[slides](slides/simple_linear_regression-crop.pdf)]
-- [Vector and matrix derivatives](https://youtu.be/FCWrduAxf-Q) (13 min) [[slides]](slides/vector_matrix_derivatives-crop.pdf)
+- [Vector and matrix derivatives](https://youtu.be/FCWrduAxf-Q) (13 min) [[slides](slides/vector_matrix_derivatives-crop.pdf)]
 - [Multiple linear regression - Model and loss](https://youtu.be/zu34zcyAFzU) (16 min)
 - [Multiple linear regression - Optimisation](https://youtu.be/QHgjzFm6vnU) (8 min) [[slides](slides/multiple_linear_regression-crop.pdf)]
 - [Polynomial regression and basis functions](https://youtu.be/TSFMepJbHa0) (15 min) [[slides](slides/regression_basis_functions-crop.pdf)]
@@ -21,24 +21,47 @@ Linear regression
 
 Training, validating, testing
 -----------------------------
-- [Training, validating and testing](https://youtu.be/aXRDdjK-hI4) (18 min) [[slides](train_val_test-crop.pdf)]
+- [Training, validating and testing](https://youtu.be/aXRDdjK-hI4) (18 min) [[slides](slides/train_val_test-crop.pdf)]
 
 
-Maximum likelihood estimation
------------------------------
+Gaussians
+---------
+- [Maximum likelihood estimation]](https://youtu.be/i6Rp0eiINgM) (20 min) [[slides](slides/maximum_likelihood-crop.pdf)]
+- [Multivariate Gaussian distribution]](https://youtu.be/azrTdjrA2bU) (5 min) [[slides](slides/multivariate_gaussian-crop.pdf)]
 
 
-Classification
---------------
+Classification: Bayes classifiers and K-nearest neighbours
+----------------------------------------------------------
+- [Task]](https://youtu.be/RqNaY7gnMP8) (9 min)
+- [K-nearest neighbours]](https://youtu.be/73YHJwp71hk) (15 min)
+- [Bayes classifier and naive Bayes]](https://youtu.be/AaOTx_eLGZ0) (17 min)
+- [Generative vs discriminative]](https://youtu.be/kizDqj9d2OM) (8 min)
+
+
+Classification: Logistic regression
+-----------------------------------
+- [Logistic regression 1: Model and loss]](https://youtu.be/nS6YewQAK7I) (14 min)
+- [Gradient descent 1: Fundamentals]](https://youtu.be/BlnLoqn3ZBo) (11 min)
+- [Logistic regression 2: Optimisation]](https://youtu.be/SLhx32b7I3A) (7 min)
+- [Logistic regression 3: The decision boundary and weight vector]](https://youtu.be/fPT8VeuFRkU) (21 min)
+- [Logistic regression 4: Basis functions and regularisation]](https://youtu.be/D_rIX0xaYno) (6 min)
+- [Logistic regression 5.1: Multiclass - One-vs-rest classification]](https://youtu.be/EYXSve6T5BU) (5 min)
+- [Logistic regression 5.2: Multiclass - Softmax regression]](https://youtu.be/hYBwBmojXoU) (15 min)
 - [Practical notebook: Classification](practicals/classification/data414_classification.ipynb) [[data1](practicals/classification/admissions.csv), [data2](practicals/classification/default.csv), [data3](practicals/classification/microchip.csv), [colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/classification/data414_classification.ipynb)]
 
+Classification: Evaluation
+--------------------------
+
+
+Preprocessing
+-------------
 
 
 Frequently asked questions
 --------------------------
-- Where do I find the slides? For some consecutive videos, the slides are
-  combined into a single PDF. So just download the slides for the next video
-  in the sequence that has slides.
+- I can't find the slides for a particular video? For some consecutive videos,
+  the slides are combined into a single PDF. So just download the slides for
+  the next video in the sequence that has slides.
 - For practicals, what is the difference between the main link and *colab*? If
   you click the notebook directly, then it will download the Jupyter notebook
   to your computer. If you click the *colab* link, then it will open the
