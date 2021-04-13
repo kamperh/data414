@@ -2,7 +2,7 @@
 Introduction to machine learning
 --------------------------------
 - [What is machine learning?](https://youtu.be/zVNmaVwistc) (10 min)
-- [Supervised and unsupervised learning](https://youtu.be/Ep0TIg88UtM) (6 min) [[**slides**](slides/intro_to_ml-crop.pdf)]
+- [Supervised and unsupervised learning](https://youtu.be/Ep0TIg88UtM) (6 min) [[slides](slides/intro_to_ml-crop.pdf)]
 - [Practical notebook: Python and NumPy](practicals/python_numpy/python_numpy.ipynb) [[colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/python_numpy/python_numpy.ipynb)]
 
 
@@ -31,6 +31,19 @@ Maximum likelihood estimation
 Classification
 --------------
 - [Practical notebook: Classification](practicals/classification/data414_classification.ipynb) [[data1](practicals/classification/admissions.csv), [data2](practicals/classification/default.csv), [data3](practicals/classification/microchip.csv), [colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/classification/data414_classification.ipynb)]
+
+
+
+Frequently asked questions
+--------------------------
+- Where do I find the slides? For some consecutive videos, the slides are
+  combined into a single PDF. So just download the slides for the next video
+  in the sequence.
+- For practicals, what is the difference between the main link and `colab`? If
+  you click the notebook directly, then it will download the Jupyter notebook
+  to your computer. If you click the `colab` link, then it will open the
+  notebook directly in your browser in a new [Google Colab
+  session](https://colab.research.google.com/).
 
 
 Acknowledgements
