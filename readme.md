@@ -26,27 +26,27 @@ Training, validating, testing
 
 Gaussians
 ---------
-- [Maximum likelihood estimation]](https://youtu.be/i6Rp0eiINgM) (20 min) [[slides](slides/maximum_likelihood-crop.pdf)]
-- [Multivariate Gaussian distribution]](https://youtu.be/azrTdjrA2bU) (5 min) [[slides](slides/multivariate_gaussian-crop.pdf)]
+- [Maximum likelihood estimation](https://youtu.be/i6Rp0eiINgM) (20 min) [[slides](slides/maximum_likelihood-crop.pdf)]
+- [Multivariate Gaussian distribution](https://youtu.be/azrTdjrA2bU) (5 min) [[slides](slides/multivariate_gaussian-crop.pdf)]
 
 
 Classification: Bayes classifiers and K-nearest neighbours
 ----------------------------------------------------------
-- [Task]](https://youtu.be/RqNaY7gnMP8) (9 min)
-- [K-nearest neighbours]](https://youtu.be/73YHJwp71hk) (15 min)
-- [Bayes classifier and naive Bayes]](https://youtu.be/AaOTx_eLGZ0) (17 min)
-- [Generative vs discriminative]](https://youtu.be/kizDqj9d2OM) (8 min)
+- [Task](https://youtu.be/RqNaY7gnMP8) (9 min)
+- [K-nearest neighbours](https://youtu.be/73YHJwp71hk) (15 min)
+- [Bayes classifier and naive Bayes](https://youtu.be/AaOTx_eLGZ0) (17 min)
+- [Generative vs discriminative](https://youtu.be/kizDqj9d2OM) (8 min)
 
 
 Classification: Logistic regression
 -----------------------------------
-- [Logistic regression 1: Model and loss]](https://youtu.be/nS6YewQAK7I) (14 min)
-- [Gradient descent 1: Fundamentals]](https://youtu.be/BlnLoqn3ZBo) (11 min)
-- [Logistic regression 2: Optimisation]](https://youtu.be/SLhx32b7I3A) (7 min)
-- [Logistic regression 3: The decision boundary and weight vector]](https://youtu.be/fPT8VeuFRkU) (21 min)
-- [Logistic regression 4: Basis functions and regularisation]](https://youtu.be/D_rIX0xaYno) (6 min)
-- [Logistic regression 5.1: Multiclass - One-vs-rest classification]](https://youtu.be/EYXSve6T5BU) (5 min)
-- [Logistic regression 5.2: Multiclass - Softmax regression]](https://youtu.be/hYBwBmojXoU) (15 min)
+- [Logistic regression 1: Model and loss](https://youtu.be/nS6YewQAK7I) (14 min)
+- [Gradient descent 1: Fundamentals](https://youtu.be/BlnLoqn3ZBo) (11 min)
+- [Logistic regression 2: Optimisation](https://youtu.be/SLhx32b7I3A) (7 min)
+- [Logistic regression 3: The decision boundary and weight vector](https://youtu.be/fPT8VeuFRkU) (21 min)
+- [Logistic regression 4: Basis functions and regularisation](https://youtu.be/D_rIX0xaYno) (6 min)
+- [Logistic regression 5.1: Multiclass - One-vs-rest classification](https://youtu.be/EYXSve6T5BU) (5 min)
+- [Logistic regression 5.2: Multiclass - Softmax regression](https://youtu.be/hYBwBmojXoU) (15 min)
 - [Practical notebook: Classification](practicals/classification/data414_classification.ipynb) [[data1](practicals/classification/admissions.csv), [data2](practicals/classification/default.csv), [data3](practicals/classification/microchip.csv), [colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/classification/data414_classification.ipynb)]
 
 Classification: Evaluation
