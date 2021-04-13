@@ -40,14 +40,15 @@ Classification: Bayes classifiers and K-nearest neighbours
 
 Classification: Logistic regression
 -----------------------------------
-- [Logistic regression 1: Model and loss](https://youtu.be/nS6YewQAK7I) (14 min)
-- [Gradient descent 1: Fundamentals](https://youtu.be/BlnLoqn3ZBo) (11 min)
-- [Logistic regression 2: Optimisation](https://youtu.be/SLhx32b7I3A) (7 min)
-- [Logistic regression 3: The decision boundary and weight vector](https://youtu.be/fPT8VeuFRkU) (21 min)
-- [Logistic regression 4: Basis functions and regularisation](https://youtu.be/D_rIX0xaYno) (6 min)
-- [Logistic regression 5.1: Multiclass - One-vs-rest classification](https://youtu.be/EYXSve6T5BU) (5 min)
-- [Logistic regression 5.2: Multiclass - Softmax regression](https://youtu.be/hYBwBmojXoU) (15 min)
+- [Model and loss](https://youtu.be/nS6YewQAK7I) (14 min)
+- [Gradient descent - Fundamentals](https://youtu.be/BlnLoqn3ZBo) (11 min)
+- [Optimisation](https://youtu.be/SLhx32b7I3A) (7 min)
+- [The decision boundary and weight vector](https://youtu.be/fPT8VeuFRkU) (21 min)
+- [Basis functions and regularisation](https://youtu.be/D_rIX0xaYno) (6 min)
+- [Multiclass - One-vs-rest classification](https://youtu.be/EYXSve6T5BU) (5 min)
+- [Multiclass - Softmax regression](https://youtu.be/hYBwBmojXoU) (15 min)
 - [Practical notebook: Classification](practicals/classification/data414_classification.ipynb) [[data1](practicals/classification/admissions.csv), [data2](practicals/classification/default.csv), [data3](practicals/classification/microchip.csv), [colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/classification/data414_classification.ipynb)]
+
 
 Classification: Evaluation
 --------------------------
