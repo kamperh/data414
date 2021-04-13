@@ -2,7 +2,7 @@
 Introduction to machine learning
 --------------------------------
 - [What is machine learning?](https://youtu.be/zVNmaVwistc) (10 min)
-- [Supervised and unsupervised learning](https://youtu.be/Ep0TIg88UtM) (6 min) [[**slides**](slides/intro_to_ml-crop.pdf)]
+- [Supervised and unsupervised learning](https://youtu.be/Ep0TIg88UtM) (6 min) [[slides](slides/intro_to_ml-crop.pdf)]
 - [Practical notebook: Python and NumPy](practicals/python_numpy/python_numpy.ipynb) [[colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/python_numpy/python_numpy.ipynb)]
 
 
