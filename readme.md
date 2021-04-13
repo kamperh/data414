@@ -8,6 +8,10 @@ Introduction to machine learning
 
 Linear regression
 -----------------
+- [Linear regression 1: Simple linear regression](https://youtu.be/L5-lxSGO9bM) (14 min)
+- [Vector and matrix derivatives](https://youtu.be/FCWrduAxf-Q) (13 min)
+- [Linear regression 2.1: Multiple linear regression - Model and loss](https://youtu.be/zu34zcyAFzU) (16 min)
+- [Linear regression 2.2: Multiple linear regression - Optimisation](https://youtu.be/QHgjzFm6vnU) (8 min)
 - [Practical notebook: Linear regression](practicals/linear_regression/data414_linear_regression.ipynb)
 [[colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/linear_regression/data414_linear_regression.ipynb)]
 
