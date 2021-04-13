@@ -12,6 +12,11 @@ Linear regression
 - [Vector and matrix derivatives](https://youtu.be/FCWrduAxf-Q) (13 min)
 - [Linear regression 2.1: Multiple linear regression - Model and loss](https://youtu.be/zu34zcyAFzU) (16 min)
 - [Linear regression 2.2: Multiple linear regression - Optimisation](https://youtu.be/QHgjzFm6vnU) (8 min)
+- [Linear regression 3: Polynomial regression and basis functions](https://youtu.be/TSFMepJbHa0) (15 min)
+- [Linear regression 4: Overfitting](https://youtu.be/S7B3LQJrU0w) (10 min)
+- [Linear regression 5: Regularization](https://youtu.be/Zojp8z8GD8c) (15 min)
+- [Linear regression 6: Evaluation and interpretation](https://youtu.be/4hkZiGk66J8) (11 min)
+- [Training, validating and testing](https://youtu.be/aXRDdjK-hI4) (18 min)
 - [Practical notebook: Linear regression](practicals/linear_regression/data414_linear_regression.ipynb)
 [[colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/linear_regression/data414_linear_regression.ipynb)]
 
