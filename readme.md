@@ -30,16 +30,16 @@ Gaussians
 - [Multivariate Gaussian distribution](https://youtu.be/azrTdjrA2bU) (5 min) [[slides](slides/multivariate_gaussian-crop.pdf)]
 
 
-Classification: Bayes classifiers and K-nearest neighbours
-----------------------------------------------------------
+Classification
+--------------
 - [Task](https://youtu.be/RqNaY7gnMP8) (9 min)
 - [K-nearest neighbours](https://youtu.be/73YHJwp71hk) (15 min)
 - [Bayes classifier and naive Bayes](https://youtu.be/AaOTx_eLGZ0) (17 min)
 - [Generative vs discriminative](https://youtu.be/kizDqj9d2OM) (8 min)
 
 
-Classification: Logistic regression
------------------------------------
+Logistic regression
+-------------------
 - [Model and loss](https://youtu.be/nS6YewQAK7I) (14 min)
 - [Gradient descent - Fundamentals](https://youtu.be/BlnLoqn3ZBo) (11 min)
 - [Optimisation](https://youtu.be/SLhx32b7I3A) (7 min)
@@ -50,8 +50,8 @@ Classification: Logistic regression
 - [Practical notebook: Classification](practicals/classification/data414_classification.ipynb) [[data1](practicals/classification/admissions.csv), [data2](practicals/classification/default.csv), [data3](practicals/classification/microchip.csv), [colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/classification/data414_classification.ipynb)]
 
 
-Classification: Evaluation
---------------------------
+Classification evaluation
+-------------------------
 
 
 Preprocessing
