@@ -1,3 +1,19 @@
+[Introduction to machine learning](#introduction-to-machine-learning)
+[Linear regression](#linear-regression)
+[Training, validating, testing](#training-validating-testing)
+[Gaussians](#gaussians)
+[Classification](#classification)
+[Logistic regression](#logistic-regression)
+[Classification evaluation](#classification-evaluation)
+[Preprocessing](#preprocessing)
+[Trees](#trees)
+[Ensemble methods](#ensemble-methods)
+[K-means clustering](#k-means-clustering)
+[Principal components analysis](#principal-components-analysis)
+[Frequently asked questions](#frequently-asked-questions)
+[Acknowledgements](#acknowledgements)
+[License](#license)
+
 
 Introduction to machine learning
 --------------------------------
