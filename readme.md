@@ -38,28 +38,28 @@ Classification
 - [Generative vs discriminative](https://youtu.be/kizDqj9d2OM&list=PLmZlBIcArwhMiJk7vCghuHGOGXXjC4n6b) (8 min) [[slides](slides/classification-crop.pdf)]
 
 
-Logistic regression
+Logistic regression ** Here
 -------------------
-- [Model and loss](https://youtu.be/nS6YewQAK7I) (14 min)
-- [Gradient descent - Fundamentals](https://youtu.be/BlnLoqn3ZBo) (11 min)
-- [Optimisation](https://youtu.be/SLhx32b7I3A) (7 min)
-- [The decision boundary and weight vector](https://youtu.be/fPT8VeuFRkU) (21 min)
-- [Basis functions and regularisation](https://youtu.be/D_rIX0xaYno) (6 min) [[slides](slides/logistic_regression-crop.pdf)]
-- [Multiclass - One-vs-rest classification](https://youtu.be/EYXSve6T5BU) (5 min)
-- [Multiclass - Softmax regression](https://youtu.be/hYBwBmojXoU) (15 min) [[slides](slides/multiclass_logistic_regression-crop.pdf)]
+- [Model and loss](https://youtu.be/nS6YewQAK7I&list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4) (14 min)
+- [Gradient descent - Fundamentals](https://youtu.be/BlnLoqn3ZBo&list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4) (11 min)
+- [Optimisation](https://youtu.be/SLhx32b7I3A&list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4) (7 min)
+- [The decision boundary and weight vector](https://youtu.be/fPT8VeuFRkU&list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4) (21 min)
+- [Basis functions and regularisation](https://youtu.be/D_rIX0xaYno&list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4) (6 min) [[slides](slides/logistic_regression-crop.pdf)]
+- [Multiclass - One-vs-rest classification](https://youtu.be/EYXSve6T5BU&list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4) (5 min)
+- [Multiclass - Softmax regression](https://youtu.be/hYBwBmojXoU&list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4) (15 min) [[slides](slides/multiclass_logistic_regression-crop.pdf)]
 
 
 Classification evaluation
 -------------------------
-- [Accuracy, precision, recall, F1](https://youtu.be/HblOroXZNUQ) (18 min)
-- [Precision, recall example](https://youtu.be/lFpdsmRnmZQ) (10 min) [[slides](slides/classification_evaluation-crop.pdf)]
+- [Accuracy, precision, recall, F1](https://youtu.be/HblOroXZNUQ&list=PLmZlBIcArwhMiJk7vCghuHGOGXXjC4n6b) (18 min)
+- [Precision, recall example](https://youtu.be/lFpdsmRnmZQ&list=PLmZlBIcArwhMiJk7vCghuHGOGXXjC4n6b) (10 min) [[slides](slides/classification_evaluation-crop.pdf)]
 - [Practical notebook: Classification](practicals/classification/data414_classification.ipynb) [[data1](practicals/classification/admissions.csv), [data2](practicals/classification/default.csv), [data3](practicals/classification/microchip.csv), [colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/classification/data414_classification.ipynb)]
 
 
 Preprocessing
 -------------
-- [Feature normalisation and scaling](https://youtu.be/EgISGYkGa5A) (14 min)
-- [Categorical features and categorical output](https://youtu.be/AoZdxBqw9n0) (9 min) [[slides](slides/preprocessing-crop.pdf)]
+- [Feature normalisation and scaling](https://youtu.be/EgISGYkGa5A&list=PLmZlBIcArwhNSvaKyVSoIEq0ewNX9KTC4) (14 min)
+- [Categorical features and categorical output](https://youtu.be/AoZdxBqw9n0&list=PLmZlBIcArwhNSvaKyVSoIEq0ewNX9KTC4) (9 min) [[slides](slides/preprocessing-crop.pdf)]
 
 
 Frequently asked questions
