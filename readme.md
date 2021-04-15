@@ -38,7 +38,7 @@ Classification
 - [Generative vs discriminative](https://youtu.be/kizDqj9d2OM&list=PLmZlBIcArwhMiJk7vCghuHGOGXXjC4n6b) (8 min) [[slides](slides/classification-crop.pdf)]
 
 
-Logistic regression ** Here
+Logistic regression
 -------------------
 - [Model and loss](https://youtu.be/nS6YewQAK7I&list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4) (14 min)
 - [Gradient descent - Fundamentals](https://youtu.be/BlnLoqn3ZBo&list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4) (11 min)
