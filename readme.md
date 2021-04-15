@@ -14,7 +14,7 @@ Linear regression
 - [Multiple linear regression - Optimisation](https://youtu.be/QHgjzFm6vnU&list=PLmZlBIcArwhNd_sWiz6f1-NHc3lg3k7PF) (8 min) [[slides](slides/multiple_linear_regression-crop.pdf)]
 - [Polynomial regression and basis functions](https://youtu.be/TSFMepJbHa0&list=PLmZlBIcArwhNd_sWiz6f1-NHc3lg3k7PF) (15 min) [[slides](slides/regression_basis_functions-crop.pdf)]
 - [Overfitting](https://youtu.be/S7B3LQJrU0w&list=PLmZlBIcArwhNd_sWiz6f1-NHc3lg3k7PF) (10 min)
-- [Regularization](https://youtu.be/Zojp8z8GD8c&list=PLmZlBIcArwhNd_sWiz6f1-NHc3lg3k7PF) (15 min) [[slides](slides/overfitting_regularisation-crop.pdf)]
+- [Regularisation](https://youtu.be/Zojp8z8GD8c&list=PLmZlBIcArwhNd_sWiz6f1-NHc3lg3k7PF) (15 min) [[slides](slides/overfitting_regularisation-crop.pdf)]
 - [Evaluation and interpretation](https://youtu.be/4hkZiGk66J8&list=PLmZlBIcArwhNd_sWiz6f1-NHc3lg3k7PF) (11 min) [[slides](slides/regression_evaluation_interpretation-crop.pdf)]
 - [Practical notebook: Linear regression](practicals/linear_regression/data414_linear_regression.ipynb) [[colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/linear_regression/data414_linear_regression.ipynb)]
 
@@ -70,7 +70,7 @@ Frequently asked questions
 - For practicals, what is the difference between the main link and the *colab*
   link? If you click the notebook directly, then it will download the Jupyter
   notebook to your computer. If you click the *colab* link, then it will open
-  the notebook directly in your browser in a new [Google Colab
+  the notebook directly in your browser in a [Google Colab
   session](https://colab.research.google.com/).
 
 
