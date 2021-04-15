@@ -1,18 +1,3 @@
-[Introduction to machine learning](#introduction-to-machine-learning)  
-[Linear regression](#linear-regression)  
-[Training, validating, testing](#training-validating-testing)  
-[Gaussians](#gaussians)  
-[Classification](#classification)  
-[Logistic regression](#logistic-regression)  
-[Classification evaluation](#classification-evaluation)  
-[Preprocessing](#preprocessing)  
-[Trees](#trees)  
-[Ensemble methods](#ensemble-methods)  
-[K-means clustering](#k-means-clustering)  
-[Principal components analysis](#principal-components-analysis)  
-[Frequently asked questions](#frequently-asked-questions)  
-[Acknowledgements](#acknowledgements)  
-[License](#license)
 
 
 Introduction to machine learning
@@ -143,7 +128,7 @@ Shakhnarovich](https://home.ttic.edu/~gregory/) at
 [TTI-Chicago](https://www.ttic.edu/); and the [Coursera machine
 learning](https://www.coursera.org/learn/machine-learning) course taught by
 [Andrew Ng](https://www.andrewng.org/). I also relied heavily on the free
-text-book [An Introduction to Statistical
+textbook [An Introduction to Statistical
 Learning](https://www.statlearning.com/).
 
 
