@@ -64,44 +64,44 @@ Preprocessing
 
 Trees
 -----
-- [Intro - Decision trees for classification (10 min)](https://youtu.be/mfzTmt0nTtU)
-- [Intro - Regression trees (12 min)](https://youtu.be/aGo--5JFpPM) [[slides](slides/dt_1_intro-crop.pdf)]
-- [Regression trees - Model (11 min)](https://youtu.be/W1UwgQ_0vq8)
-- [Regression trees - Algorithm (18 min)](https://youtu.be/HEsSYQMtwfQ)
-- [Regression trees - Tree pruning (9 min)](https://youtu.be/lvaulWuaQak) [[slides](slides/dt_2_regression_trees-crop.pdf)]
-- [Decision trees - Classification (7 min)](https://youtu.be/mDMHbr-jflU)
-- [Decision trees - Algorithm (16 min)](https://youtu.be/Utptpje03AI)
-- [Decision trees - In practice (8 min)](https://youtu.be/UjdRf503tC4) [[slides](slides/dt_3_decision_trees-crop.pdf)]
+- [Intro - Decision trees for classification (10 min)](https://youtu.be/mfzTmt0nTtU&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp)
+- [Intro - Regression trees (12 min)](https://youtu.be/aGo--5JFpPM&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) [[slides](slides/dt_1_intro-crop.pdf)]
+- [Regression trees - Model (11 min)](https://youtu.be/W1UwgQ_0vq8&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp)
+- [Regression trees - Algorithm (18 min)](https://youtu.be/HEsSYQMtwfQ&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp)
+- [Regression trees - Tree pruning (9 min)](https://youtu.be/lvaulWuaQak&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) [[slides](slides/dt_2_regression_trees-crop.pdf)]
+- [Decision trees - Classification (7 min)](https://youtu.be/mDMHbr-jflU&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp)
+- [Decision trees - Algorithm (16 min)](https://youtu.be/Utptpje03AI&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp)
+- [Decision trees - In practice (8 min)](https://youtu.be/UjdRf503tC4&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) [[slides](slides/dt_3_decision_trees-crop.pdf)]
 - [Practical notebook: Decision trees](practicals/decision_trees/data414_decision_trees.ipynb) [[data](practicals/decision_trees/heart.csv), [colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/decision_trees/data414_decision_trees.ipynb)]
 
 
 Ensemble methods
 ----------------
-- [Bagging (13 min)](https://youtu.be/pvZ3ZhlmDCE) 
-- [Random forests (7 min)](https://youtu.be/7ex0aF2k7YY)
-- [Boosting for regression (21 min)](https://youtu.be/9C__SHdkY8A) 
-- [AdaBoost for classification - Setup (10 min)](https://youtu.be/Oksv-lVq2hQ) 
-- [AdaBoost for classification - Step-by-step (15 min)](https://youtu.be/Vixw2DOUGec) 
-- [AdaBoost for classification - Details (11 min)](https://youtu.be/wbmuqXbUFGM) [[slides](slides/ensemble_methods_prep-crop.pdf)]
+- [Bagging (13 min)](https://youtu.be/pvZ3ZhlmDCE&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP) 
+- [Random forests (7 min)](https://youtu.be/7ex0aF2k7YY&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP)
+- [Boosting for regression (21 min)](https://youtu.be/9C__SHdkY8A&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP) 
+- [AdaBoost for classification - Setup (10 min)](https://youtu.be/Oksv-lVq2hQ&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP) 
+- [AdaBoost for classification - Step-by-step (15 min)](https://youtu.be/Vixw2DOUGec&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP) 
+- [AdaBoost for classification - Details (11 min)](https://youtu.be/wbmuqXbUFGM&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP) [[slides](slides/ensemble_methods_prep-crop.pdf)]
 
 
 K-means clustering
 ------------------
-- [Introduction to unsupervised learning (19 min)](https://youtu.be/_Tf1Vi4s7Ec) [[slides](slides/unsupervised_learning_intro-crop.pdf)]
-- [K-means clustering - Algorithm (16 min)](https://youtu.be/PgK1IppRdsE) 
-- [K-means clustering - Details (14 min)](https://youtu.be/f3-G0txYUEM) [[slides](slides/k_means-crop.pdf)]
+- [Introduction to unsupervised learning (19 min)](https://youtu.be/_Tf1Vi4s7Ec&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) [[slides](slides/unsupervised_learning_intro-crop.pdf)]
+- [K-means clustering - Algorithm (16 min)](https://youtu.be/PgK1IppRdsE&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) 
+- [K-means clustering - Details (14 min)](https://youtu.be/f3-G0txYUEM&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) [[slides](slides/k_means-crop.pdf)]
 - [Practical notebook: Clustering](practicals/clustering/data414_clustering.ipynb) [[data](practicals/clustering/baby_yoda.png), [colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/clustering/data414_clustering.ipynb)]
 
 
 Principal components analysis
 -----------------------------
-- [Introduction (16 min)](https://youtu.be/MLknbgx7k_k) 
-- [Mathematical background (7 min)](https://youtu.be/NoD41tbBVIY) 
-- [Setup (17 min)](https://youtu.be/6b4EEtRynIQ) 
-- [Learning (19 min)](https://youtu.be/Jc7DvdU6U8I) 
-- [Minimising reconstruction (7 min)](https://youtu.be/B1z2zTQ1gxw) 
-- [Relationship to SVD (9 min)](https://youtu.be/DQ_BkPHIl-g) 
-- [Steps (6 min)](https://youtu.be/SazsJHCajOc) [[slides](slides/pca-crop.pdf)]
+- [Introduction (16 min)](https://youtu.be/MLknbgx7k_k&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) 
+- [Mathematical background (7 min)](https://youtu.be/NoD41tbBVIY&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) 
+- [Setup (17 min)](https://youtu.be/6b4EEtRynIQ&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) 
+- [Learning (19 min)](https://youtu.be/Jc7DvdU6U8I&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) 
+- [Minimising reconstruction (7 min)](https://youtu.be/B1z2zTQ1gxw&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) 
+- [Relationship to SVD (9 min)](https://youtu.be/DQ_BkPHIl-g&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) 
+- [Steps (6 min)](https://youtu.be/SazsJHCajOc&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) [[slides](slides/pca-crop.pdf)]
 - [Practical notebook: Dimensionality reduction](practicals/dimreduction/data414_dimreduction.ipynb) [[colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/dimreduction/data414_dimreduction.ipynb)]
 
 
@@ -110,7 +110,7 @@ Frequently asked questions
 - *I can't find the slides for a particular video?* For some consecutive
   videos, the slides are combined into a single PDF. So just download the
   slides for the next video in the sequence that has slides.
-- *For practicals, what is the difference between the main link and the *colab*
+- *For practicals, what is the difference between the main link and the colab
   link?* If you click the notebook directly, then it will download the Jupyter
   notebook to your computer. If you click the *colab* link, then it will open
   the notebook directly in your browser in a [Google Colab
