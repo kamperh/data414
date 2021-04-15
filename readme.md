@@ -62,6 +62,49 @@ Preprocessing
 - [Categorical features and categorical output](https://youtu.be/AoZdxBqw9n0&list=PLmZlBIcArwhNSvaKyVSoIEq0ewNX9KTC4) (9 min) [[slides](slides/preprocessing-crop.pdf)]
 
 
+Trees
+-----
+- [Intro - Decision trees for classification (10 min)](https://youtu.be/mfzTmt0nTtU)
+- [Intro - Regression trees (12 min)](https://youtu.be/aGo--5JFpPM)
+- [Regression trees - Model (11 min)](https://youtu.be/W1UwgQ_0vq8)
+- [Regression trees - Algorithm (18 min)](https://youtu.be/HEsSYQMtwfQ)
+- [Regression trees - Tree pruning (9 min)](https://youtu.be/lvaulWuaQak)
+- [Decision trees - Classification (7 min)](https://youtu.be/mDMHbr-jflU)
+- [Decision trees - Algorithm (16 min)](https://youtu.be/Utptpje03AI)
+- [Decision trees - In practice (8 min)](https://youtu.be/UjdRf503tC4)
+- [Practical notebook: Decision trees](practicals/decision_trees/data414_decision_trees.ipynb) [[data](practicals/decision_trees/heart.csv), [colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/decision_trees/data414_decision_trees.ipynb)]
+
+
+Ensemble methods
+----------------
+- [Bagging (13 min)](https://youtu.be/pvZ3ZhlmDCE) 
+- [Random forests (7 min)](https://youtu.be/7ex0aF2k7YY)
+- [Boosting for regression (21 min)](https://youtu.be/9C__SHdkY8A) 
+- [AdaBoost for classification - Setup (10 min)](https://youtu.be/Oksv-lVq2hQ) 
+- [AdaBoost for classification - Step-by-step (15 min)](https://youtu.be/Vixw2DOUGec) 
+- [AdaBoost for classification - Details (11 min)](https://youtu.be/wbmuqXbUFGM) 
+
+
+K-means clustering
+------------------
+- [Introduction to unsupervised learning (19 min)](https://youtu.be/_Tf1Vi4s7Ec)
+- [K-means clustering - Algorithm (16 min)](https://youtu.be/PgK1IppRdsE) 
+- [K-means clustering - Details (14 min)](https://youtu.be/f3-G0txYUEM) 
+- [Practical notebook: Clustering](practicals/clustering/data414_clustering.ipynb) [[data](practicals/clustering/baby_yoda.png), [colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/clustering/data414_clustering.ipynb)]
+
+
+Principal components analysis
+-----------------------------
+- [Introduction (16 min)](https://youtu.be/MLknbgx7k_k) 
+- [Mathematical background (7 min)](https://youtu.be/NoD41tbBVIY) 
+- [Setup (17 min)](https://youtu.be/6b4EEtRynIQ) 
+- [Learning (19 min)](https://youtu.be/Jc7DvdU6U8I) 
+- [Minimising reconstruction (7 min)](https://youtu.be/B1z2zTQ1gxw) 
+- [Relationship to SVD (9 min)](https://youtu.be/DQ_BkPHIl-g) 
+- [Steps (6 min)](https://youtu.be/SazsJHCajOc)
+- [Practical notebook: Dimensionality reduction](practicals/dimreduction/data414_dimreduction.ipynb) [[colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/dimreduction/data414_dimreduction.ipynb)]
+
+
 Frequently asked questions
 --------------------------
 - I can't find the slides for a particular video? For some consecutive videos,
