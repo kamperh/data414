@@ -122,9 +122,9 @@ Frequently asked questions
 Acknowledgements
 ----------------
 These videos are heavily inspired by three courses: the
-[MLPR](https://mlpr.inf.ed.ac.uk/) course taught by [Iain
-Murray](https://homepages.inf.ed.ac.uk/imurray2/) at the University of
-Edinburgh; the machine learning course taught by [Greg
+[MLPR](https://www.inf.ed.ac.uk/teaching/courses/mlpr/2018/notes/) course
+taught by [Iain Murray](https://homepages.inf.ed.ac.uk/imurray2/) at the
+University of Edinburgh; the machine learning course taught by [Greg
 Shakhnarovich](https://home.ttic.edu/~gregory/) at
 [TTI-Chicago](https://www.ttic.edu/); and the [Coursera machine
 learning](https://www.coursera.org/learn/machine-learning) course taught by
