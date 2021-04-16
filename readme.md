@@ -63,8 +63,8 @@ Preprocessing
 - [Categorical features and categorical output](https://youtu.be/AoZdxBqw9n0&list=PLmZlBIcArwhNSvaKyVSoIEq0ewNX9KTC4) (9 min) [[slides](slides/preprocessing-crop.pdf)]
 
 
-Trees
------
+Decision trees
+--------------
 - [Intro - Decision trees for classification (10 min)](https://youtu.be/mfzTmt0nTtU&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp)
 - [Intro - Regression trees (12 min)](https://youtu.be/aGo--5JFpPM&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) [[slides](slides/dt_1_intro-crop.pdf)]
 - [Regression trees - Model (11 min)](https://youtu.be/W1UwgQ_0vq8&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp)
@@ -110,7 +110,8 @@ Frequently asked questions
 --------------------------
 - *I can't find the slides for a particular video?* For some consecutive
   videos, the slides are combined into a single PDF. So just download the
-  slides for the next video in the sequence that has slides.
+  slides for the next video in the sequence that has slides---it will have what
+  you are looking for.
 - *For practicals, what is the difference between the main link and the colab
   link?* If you click the notebook directly, then it will download the Jupyter
   notebook to your computer. If you click the *colab* link, then it will open
@@ -127,7 +128,7 @@ Edinburgh; the machine learning course taught by [Greg
 Shakhnarovich](https://home.ttic.edu/~gregory/) at
 [TTI-Chicago](https://www.ttic.edu/); and the [Coursera machine
 learning](https://www.coursera.org/learn/machine-learning) course taught by
-[Andrew Ng](https://www.andrewng.org/). I also used on the textbook [An
+[Andrew Ng](https://www.andrewng.org/). I also used the textbook [An
 Introduction to Statistical Learning](https://www.statlearning.com/).
 
 
