@@ -128,8 +128,9 @@ Edinburgh; the machine learning course taught by [Greg
 Shakhnarovich](https://home.ttic.edu/~gregory/) at
 [TTI-Chicago](https://www.ttic.edu/); and the [Coursera machine
 learning](https://www.coursera.org/learn/machine-learning) course taught by
-[Andrew Ng](https://www.andrewng.org/). I also used the textbook [An
-Introduction to Statistical Learning](https://www.statlearning.com/).
+[Andrew Ng](https://www.andrewng.org/). I also consulted the textbook [An
+Introduction to Statistical Learning](https://www.statlearning.com/),
+especially for examples.
 
 
 License
