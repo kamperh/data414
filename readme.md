@@ -42,7 +42,7 @@ Classification
 Logistic regression
 -------------------
 - [Model and loss](https://youtu.be/nS6YewQAK7I&list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4) (14 min)
-- [Gradient descent - Fundamentals](https://youtu.be/BlnLoqn3ZBo&list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4) (11 min)
+- [Gradient descent - Fundamentals](https://youtu.be/BlnLoqn3ZBo&list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4) (11 min) [[slides](slides/gradient_descent-crop.pdf)]
 - [Optimisation](https://youtu.be/SLhx32b7I3A&list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4) (7 min)
 - [The decision boundary and weight vector](https://youtu.be/fPT8VeuFRkU&list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4) (21 min)
 - [Basis functions and regularisation](https://youtu.be/D_rIX0xaYno&list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4) (6 min) [[slides](slides/logistic_regression-crop.pdf)]
