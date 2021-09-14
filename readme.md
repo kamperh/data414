@@ -135,6 +135,6 @@ especially for examples.
 
 License
 -------
-2020-2021 Herman Kamper  
+Herman Kamper, 2020-2021.  
 This work is released under a Creative Commons Attribution-ShareAlike
 license ([CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)).
