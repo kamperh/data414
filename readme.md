@@ -132,8 +132,6 @@ learning](https://www.coursera.org/learn/machine-learning) course taught by
 Introduction to Statistical Learning](https://www.statlearning.com/),
 especially for examples.
 
-test: [slides/](slides/)
-
 
 License
 -------
