@@ -50,17 +50,17 @@ Logistic regression
 - [Multiclass - Softmax regression](https://youtu.be/hYBwBmojXoU&list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4) (15 min) [[slides](slides/multiclass_logistic_regression-crop.pdf)]
 
 
+Preprocessing
+-------------
+- [Feature normalisation and scaling](https://youtu.be/EgISGYkGa5A&list=PLmZlBIcArwhNSvaKyVSoIEq0ewNX9KTC4) (14 min)  [[slides](slides/preprocessing-crop.pdf)]
+- [Categorical features and categorical output](https://youtu.be/AoZdxBqw9n0&list=PLmZlBIcArwhNSvaKyVSoIEq0ewNX9KTC4) (9 min) [[slides](slides/preprocessing-crop.pdf)]
+
+
 Classification evaluation
 -------------------------
 - [Accuracy, precision, recall, F1](https://youtu.be/HblOroXZNUQ&list=PLmZlBIcArwhMiJk7vCghuHGOGXXjC4n6b) (18 min) [[slides](slides/classification_evaluation-crop.pdf)]
 - [Precision, recall example](https://youtu.be/lFpdsmRnmZQ&list=PLmZlBIcArwhMiJk7vCghuHGOGXXjC4n6b) (10 min) [[slides](slides/classification_evaluation-crop.pdf)]
 - [Practical notebook: Classification](practicals/classification/data414_classification.ipynb) [[data1](practicals/classification/admissions.csv), [data2](practicals/classification/default.csv), [data3](practicals/classification/microchip.csv), [colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/classification/data414_classification.ipynb)]
-
-
-Preprocessing
--------------
-- [Feature normalisation and scaling](https://youtu.be/EgISGYkGa5A&list=PLmZlBIcArwhNSvaKyVSoIEq0ewNX9KTC4) (14 min)  [[slides](slides/preprocessing-crop.pdf)]
-- [Categorical features and categorical output](https://youtu.be/AoZdxBqw9n0&list=PLmZlBIcArwhNSvaKyVSoIEq0ewNX9KTC4) (9 min) [[slides](slides/preprocessing-crop.pdf)]
 
 
 Decision trees
