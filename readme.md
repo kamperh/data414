@@ -107,7 +107,8 @@ Principal components analysis
 
 Introduction to neural networks
 -------------------------------
-- []
+- [Neural network preliminaries: Vector and matrix derivatives](https://youtu.be/xOx2SS6TXHQ&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (5 min) [[slides](slides/intro_nn-crop.pdf)]
+- [Neural network preliminaries: The chain rule for vectors](https://youtu.be/mnjSBg3EWZ0) (7 min) [[slides](slides/intro_nn-crop.pdf)]
 - [Why is it called a neural network?]() (4 min) [[slides](slides/intro_nn-crop.pdf)]
 
 
