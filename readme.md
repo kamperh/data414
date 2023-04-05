@@ -1,5 +1,4 @@
 
-
 Introduction to machine learning
 --------------------------------
 - [What is machine learning?](https://youtu.be/zVNmaVwistc&list=PLmZlBIcArwhM_7t4ZzxXAs1PWaLqcPusG) (10 min) [[slides](slides/intro_to_ml-crop.pdf)]
