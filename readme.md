@@ -64,44 +64,44 @@ Classification evaluation
 
 Decision trees
 --------------
-- [Intro - Decision trees for classification (10 min)](https://youtu.be/mfzTmt0nTtU&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) [[slides](slides/dt_1_intro-crop.pdf)]
-- [Intro - Regression trees (12 min)](https://youtu.be/aGo--5JFpPM&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) [[slides](slides/dt_1_intro-crop.pdf)]
-- [Regression trees - Model (11 min)](https://youtu.be/W1UwgQ_0vq8&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) [[slides](slides/dt_2_regression_trees-crop.pdf)]
-- [Regression trees - Algorithm (18 min)](https://youtu.be/HEsSYQMtwfQ&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) [[slides](slides/dt_2_regression_trees-crop.pdf)]
-- [Regression trees - Tree pruning (9 min)](https://youtu.be/lvaulWuaQak&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) [[slides](slides/dt_2_regression_trees-crop.pdf)]
-- [Decision trees - Classification (7 min)](https://youtu.be/mDMHbr-jflU&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) [[slides](slides/dt_3_decision_trees-crop.pdf)]
-- [Decision trees - Algorithm (16 min)](https://youtu.be/Utptpje03AI&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) [[slides](slides/dt_3_decision_trees-crop.pdf)]
-- [Decision trees - In practice (8 min)](https://youtu.be/UjdRf503tC4&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) [[slides](slides/dt_3_decision_trees-crop.pdf)]
+- [Intro - Decision trees for classification](https://youtu.be/mfzTmt0nTtU&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) (10 min) [[slides](slides/dt_1_intro-crop.pdf)]
+- [Intro - Regression trees](https://youtu.be/aGo--5JFpPM&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) (12 min) [[slides](slides/dt_1_intro-crop.pdf)]
+- [Regression trees - Model](https://youtu.be/W1UwgQ_0vq8&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) (11 min) [[slides](slides/dt_2_regression_trees-crop.pdf)]
+- [Regression trees - Algorithm](https://youtu.be/HEsSYQMtwfQ&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) (18 min) [[slides](slides/dt_2_regression_trees-crop.pdf)]
+- [Regression trees - Tree pruning](https://youtu.be/lvaulWuaQak&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) (9 min) [[slides](slides/dt_2_regression_trees-crop.pdf)]
+- [Decision trees - Classification](https://youtu.be/mDMHbr-jflU&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) (7 min) [[slides](slides/dt_3_decision_trees-crop.pdf)]
+- [Decision trees - Algorithm](https://youtu.be/Utptpje03AI&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) (16 min) [[slides](slides/dt_3_decision_trees-crop.pdf)]
+- [Decision trees - In practice](https://youtu.be/UjdRf503tC4&list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp) (8 min) [[slides](slides/dt_3_decision_trees-crop.pdf)]
 - [Practical notebook: Decision trees](practicals/decision_trees/data414_decision_trees.ipynb) [[data](practicals/decision_trees/heart.csv), [colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/decision_trees/data414_decision_trees.ipynb)]
 
 
 Ensemble methods
 ----------------
-- [Bagging (13 min)](https://youtu.be/pvZ3ZhlmDCE&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP) [[slides](slides/ensemble_methods_prep-crop.pdf)]
-- [Random forests (7 min)](https://youtu.be/7ex0aF2k7YY&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP) [[slides](slides/ensemble_methods_prep-crop.pdf)]
-- [Boosting for regression (21 min)](https://youtu.be/9C__SHdkY8A&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP) [[slides](slides/ensemble_methods_prep-crop.pdf)]
-- [AdaBoost for classification - Setup (10 min)](https://youtu.be/Oksv-lVq2hQ&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP) [[slides](slides/ensemble_methods_prep-crop.pdf)]
-- [AdaBoost for classification - Step-by-step (15 min)](https://youtu.be/Vixw2DOUGec&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP) [[slides](slides/ensemble_methods_prep-crop.pdf)]
-- [AdaBoost for classification - Details (11 min)](https://youtu.be/wbmuqXbUFGM&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP) [[slides](slides/ensemble_methods_prep-crop.pdf)]
+- [Bagging](https://youtu.be/pvZ3ZhlmDCE&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP) (13 min) [[slides](slides/ensemble_methods_prep-crop.pdf)]
+- [Random forests](https://youtu.be/7ex0aF2k7YY&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP) (7 min) [[slides](slides/ensemble_methods_prep-crop.pdf)]
+- [Boosting for regression](https://youtu.be/9C__SHdkY8A&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP) (21 min) [[slides](slides/ensemble_methods_prep-crop.pdf)]
+- [AdaBoost for classification - Setup](https://youtu.be/Oksv-lVq2hQ&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP) (10 min) [[slides](slides/ensemble_methods_prep-crop.pdf)]
+- [AdaBoost for classification - Step-by-step](https://youtu.be/Vixw2DOUGec&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP) (15 min) [[slides](slides/ensemble_methods_prep-crop.pdf)]
+- [AdaBoost for classification - Details](https://youtu.be/wbmuqXbUFGM&list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP) (11 min) [[slides](slides/ensemble_methods_prep-crop.pdf)]
 
 
 K-means clustering
 ------------------
-- [Introduction to unsupervised learning (19 min)](https://youtu.be/_Tf1Vi4s7Ec&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) [[slides](slides/unsupervised_learning_intro-crop.pdf)]
-- [K-means clustering - Algorithm (16 min)](https://youtu.be/PgK1IppRdsE&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) [[slides](slides/k_means-crop.pdf)]
-- [K-means clustering - Details (14 min)](https://youtu.be/f3-G0txYUEM&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) [[slides](slides/k_means-crop.pdf)]
+- [Introduction to unsupervised learning](https://youtu.be/_Tf1Vi4s7Ec&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) (19 min) [[slides](slides/unsupervised_learning_intro-crop.pdf)]
+- [K-means clustering - Algorithm](https://youtu.be/PgK1IppRdsE&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) (16 min) [[slides](slides/k_means-crop.pdf)]
+- [K-means clustering - Details](https://youtu.be/f3-G0txYUEM&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) (14 min) [[slides](slides/k_means-crop.pdf)]
 - [Practical notebook: Clustering](practicals/clustering/data414_clustering.ipynb) [[data](practicals/clustering/baby_yoda.png), [colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/clustering/data414_clustering.ipynb)]
 
 
 Principal components analysis
 -----------------------------
-- [Introduction (16 min)](https://youtu.be/MLknbgx7k_k&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) [[slides](slides/pca-crop.pdf)]
-- [Mathematical background (7 min)](https://youtu.be/NoD41tbBVIY&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) [[slides](slides/pca-crop.pdf)]
-- [Setup (17 min)](https://youtu.be/6b4EEtRynIQ&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) [[slides](slides/pca-crop.pdf)]
-- [Learning (19 min)](https://youtu.be/Jc7DvdU6U8I&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) [[slides](slides/pca-crop.pdf)]
-- [Minimising reconstruction (7 min)](https://youtu.be/B1z2zTQ1gxw&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) [[slides](slides/pca-crop.pdf)]
-- [Relationship to SVD (9 min)](https://youtu.be/DQ_BkPHIl-g&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) [[slides](slides/pca-crop.pdf)]
-- [Steps (6 min)](https://youtu.be/SazsJHCajOc&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) [[slides](slides/pca-crop.pdf)]
+- [Introduction](https://youtu.be/MLknbgx7k_k&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) (16 min) [[slides](slides/pca-crop.pdf)]
+- [Mathematical background](https://youtu.be/NoD41tbBVIY&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) (7 min) [[slides](slides/pca-crop.pdf)]
+- [Setup](https://youtu.be/6b4EEtRynIQ&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) (17 min) [[slides](slides/pca-crop.pdf)]
+- [Learning](https://youtu.be/Jc7DvdU6U8I&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) (19 min) [[slides](slides/pca-crop.pdf)]
+- [Minimising reconstruction](https://youtu.be/B1z2zTQ1gxw&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) (7 min) [[slides](slides/pca-crop.pdf)]
+- [Relationship to SVD](https://youtu.be/DQ_BkPHIl-g&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) (9 min) [[slides](slides/pca-crop.pdf)]
+- [Steps](https://youtu.be/SazsJHCajOc&list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) (6 min) [[slides](slides/pca-crop.pdf)]
 - [Practical notebook: Dimensionality reduction](practicals/dimreduction/data414_dimreduction.ipynb) [[colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/dimreduction/data414_dimreduction.ipynb)]
 
 
