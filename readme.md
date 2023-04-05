@@ -106,13 +106,10 @@ Principal components analysis
 - [Practical notebook: Dimensionality reduction](practicals/dimreduction/data414_dimreduction.ipynb) [[colab](https://colab.research.google.com/github/kamperh/data414/blob/main/practicals/dimreduction/data414_dimreduction.ipynb)]
 
 
-Frequently asked questions
---------------------------
-- *For practicals, what is the difference between the main link and the colab
-  link?* If you click the notebook directly, then it will download the Jupyter
-  notebook to your computer. If you click the *colab* link, then it will open
-  the notebook directly in your browser in a [Google Colab
-  session](https://colab.research.google.com/).
+Introduction to neural networks
+-------------------------------
+- []
+- [Why is it called a neural network?]() (4 min) [[slides](slides/intro_nn-crop.pdf)]
 
 
 Acknowledgements
