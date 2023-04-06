@@ -113,7 +113,7 @@ Introduction to neural networks
 - [Neural network preliminaries: Gradient descent](https://youtu.be/Ay3JdygFfY8&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (4 min) [[slides](slides/intro_nn-crop.pdf)]
 - [Neural network preliminaries: Logistic regression, softmax regression and basis functions](https://youtu.be/6QyxMO4wH2w&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (6 min) [[slides](slides/intro_nn-crop.pdf)]
 - [From logistic regression with basis functions to neural networks](https://youtu.be/_FWFutvALwo&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (19 min) [[slides](slides/intro_nn-crop.pdf)]
-- [Why is it called a neural network?]() (4 min) [[slides](slides/intro_nn-crop.pdf)]
+- [Why is it called a neural network?](https://youtu.be/_QynHmmVn3E&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (4 min) [[slides](slides/intro_nn-crop.pdf)]
 
 
 Acknowledgements
