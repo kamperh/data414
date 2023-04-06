@@ -107,7 +107,7 @@ Principal components analysis
 
 Introduction to neural networks
 -------------------------------
-[Playlist](https://www.youtube.com/playlist?list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn)
+[Full playlist](https://www.youtube.com/playlist?list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn)
 - [Neural network preliminaries: Vector and matrix derivatives](https://youtu.be/xOx2SS6TXHQ&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (5 min) [[slides](slides/intro_nn-crop.pdf)]
 - [Neural network preliminaries: The chain rule for vector derivatives](https://youtu.be/mnjSBg3EWZ0&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (7 min) [[slides](slides/intro_nn-crop.pdf)]
 - [Neural network preliminaries: Gradient descent](https://youtu.be/Ay3JdygFfY8&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (4 min) [[slides](slides/intro_nn-crop.pdf)]
