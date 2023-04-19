@@ -115,6 +115,8 @@ Introduction to neural networks
 - [From logistic regression with basis functions to neural networks](https://youtu.be/_FWFutvALwo&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (19 min) [[slides](slides/intro_nn-crop.pdf)]
 - [Why is it called a neural network?](https://youtu.be/_QynHmmVn3E&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (4 min) [[slides](slides/intro_nn-crop.pdf)]
 - [Backpropagation (without forks)](https://youtu.be/6SW1oUztmzg&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (31 min) [[slides](slides/intro_nn-crop.pdf)]
+- [Backprop for a multilayer feedforward neural network](https://youtu.be/dTupaVdrz1k&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (4 min) [[slides](slides/intro_nn-crop.pdf)]
+- [Computational graphs and automatic differentiation for neural networks](https://youtu.be/fBSm5ElvJEg&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (7 min) [[slides](slides/intro_nn-crop.pdf)]
 
 
 Acknowledgements
