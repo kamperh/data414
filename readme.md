@@ -117,6 +117,8 @@ Introduction to neural networks
 - [Backpropagation (without forks)](https://youtu.be/6SW1oUztmzg&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (31 min) [[slides](slides/intro_nn-crop.pdf)]
 - [Backprop for a multilayer feedforward neural network](https://youtu.be/dTupaVdrz1k&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (4 min) [[slides](slides/intro_nn-crop.pdf)]
 - [Computational graphs and automatic differentiation for neural networks](https://youtu.be/fBSm5ElvJEg&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (7 min) [[slides](slides/intro_nn-crop.pdf)]
+- [Common derivatives for neural networks](https://youtu.be/aqnjXWxiT0o&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (7 min) [[slides](slides/intro_nn-crop.pdf)]
+- [A general notation for derivatives (in neural networks)](https://youtu.be/Sa5_Gl_sYoI&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (8 min) [[slides](slides/intro_nn-crop.pdf)]
 
 
 Acknowledgements
