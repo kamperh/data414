@@ -124,7 +124,7 @@ Introduction to neural networks
 - [What is the difference between negative log likelihood and cross entropy? (in neural networks)](https://youtu.be/ziq967YrSsc&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (9 min) [[slides](slides/intro_nn-crop.pdf)]
 - [Neural networks in practice](https://youtu.be/MvN0uD_A-mg&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (7 min) [[slides](slides/intro_nn-crop.pdf)]
 - [Neural networks examples: Natural language processing](https://youtu.be/dGo1BB5Wusk&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (8 min) [[slides](slides/intro_nn-crop.pdf)]
-- [What should I read to learn about neural networks?]() (3 min) [[slides](slides/intro_nn-crop.pdf)]
+- [What should I read to learn about neural networks?](https://youtu.be/8okxV2gajLM&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (3 min) [[slides](slides/intro_nn-crop.pdf)]
 
 
 Acknowledgements
