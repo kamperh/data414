@@ -119,6 +119,12 @@ Introduction to neural networks
 - [Computational graphs and automatic differentiation for neural networks](https://youtu.be/fBSm5ElvJEg&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (7 min) [[slides](slides/intro_nn-crop.pdf)]
 - [Common derivatives for neural networks](https://youtu.be/aqnjXWxiT0o&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (7 min) [[slides](slides/intro_nn-crop.pdf)]
 - [A general notation for derivatives (in neural networks)](https://youtu.be/Sa5_Gl_sYoI&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (8 min) [[slides](slides/intro_nn-crop.pdf)]
+- [Forks in neural networks](https://youtu.be/6mmEw738MQo&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (14 min) [[slides](slides/intro_nn-crop.pdf)]
+- [Backpropagation in general (now with forks)](https://youtu.be/aRkhgm2i4p0&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (4 min) [[slides](slides/intro_nn-crop.pdf)]
+- [What is the difference between negative log likelihood and cross entropy? (in neural networks)](https://youtu.be/ziq967YrSsc&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (9 min) [[slides](slides/intro_nn-crop.pdf)]
+- [Neural networks in practice](https://youtu.be/MvN0uD_A-mg&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (7 min) [[slides](slides/intro_nn-crop.pdf)]
+- [Neural networks examples: Natural language processing](https://youtu.be/dGo1BB5Wusk&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (8 min) [[slides](slides/intro_nn-crop.pdf)]
+- [What should I read to learn about neural networks?]() (3 min) [[slides](slides/intro_nn-crop.pdf)]
 
 
 Acknowledgements
