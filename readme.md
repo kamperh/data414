@@ -153,6 +153,7 @@ I use these notes when presenting the above material in in-person lectures.
 - [Introduction to unsupervised learning](notes/18_unsupervised_learning_intro_notes.pdf)
 - [K-means clustering](notes/19_kmeans_notes.pdf)
 - [Principal components analysis](notes/20_pca_notes.pdf)
+- [Introduction to neural networks](http://kamperh.github.io/nlp817/notes/08_nn_notes.pdf)
 - [Revisiting supervised and unsupervised learning](notes/22_revisit_supervised_unsupervised_notes.pdf)
 
 
