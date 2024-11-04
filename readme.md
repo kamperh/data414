@@ -158,6 +158,14 @@ I use these notes when presenting the above material in in-person lectures.
 - [Revisiting supervised and unsupervised learning](notes/22_revisit_supervised_unsupervised_notes.pdf)
 
 
+## Tutorials
+
+- [Linear regression](tutorials/data414_tut01_linear_regression.pdf)
+- [Classification](tutorials/data414_tut02_classification.pdf)
+- [Decision trees](tutorials/data414_tut03_decision_trees.pdf)
+- [Unsupervised learning](tutorials/data414_tut04_unsupervised_learning.pdf)
+
+
 ## Acknowledgements
 
 These videos are heavily inspired by three courses: the
