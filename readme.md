@@ -148,6 +148,7 @@ I use these notes when presenting the above material in in-person lectures.
 - [Binary logistic regression](notes/10_logistic_regression_notes.pdf)
 - [Multiclass logistic regression](notes/11_multiclass_logistic_regression_notes.pdf)
 - [Preprocessing: Normalisation, scaling and categorical data](notes/12_preprocessing_notes.pdf)
+- [More on linear models](notes/linear_models_more_notes.pdf)
 - [Classification evaluation](notes/13_classification_evaluation_notes.pdf)
 - [Introduction to trees](notes/14a_dt_intro_notes.pdf)
 - [Ensemble methods](notes/17_ensemble_methods_notes.pdf)
