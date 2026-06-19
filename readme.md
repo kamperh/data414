@@ -128,7 +128,7 @@
 - [What should I read to learn about neural networks?](https://youtu.be/8okxV2gajLM&list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn) (3 min) [[slides](slides/intro_nn-crop.pdf)]
 
 
-## Lecture notes
+<!-- ## Lecture notes
 
 I use these notes when presenting the above material in in-person lectures.
 
@@ -156,7 +156,7 @@ I use these notes when presenting the above material in in-person lectures.
 - [K-means clustering](notes/19_kmeans_notes.pdf)
 - [Principal components analysis](notes/20_pca_notes.pdf)
 - [Introduction to neural networks](http://kamperh.github.io/nlp817/notes/08_nn_notes.pdf)
-- [Revisiting supervised and unsupervised learning](notes/22_revisit_supervised_unsupervised_notes.pdf)
+- [Revisiting supervised and unsupervised learning](notes/22_revisit_supervised_unsupervised_notes.pdf) -->
 
 
 ## Tutorials
