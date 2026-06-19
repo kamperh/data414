@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<!-- Minima version: https://github.com/jekyll/minima/releases/tag/v2.5.1  -->
+
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  <!-- Adapted from head.html -->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {%- if site.title -%}
+      {%- if site.description -%}
+        <title>{{ site.description }} | {{ site.title }}</title>
+      {%- endif -%}
+    {%- endif -%}
+    
+    {%- seo -%}
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    {%- feed_meta -%}
+    {%- if jekyll.environment == 'production' and site.google_analytics -%}
+      {%- include google-analytics.html -%}
+    {%- endif -%}
+  </head>
+ 
+  <body>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+
+        <div class="home">
+          {%- if site.title -%}
+            <h1 class="post-title" style="text-align: center; margin-top: 20px;">{{ site.title }}</h1>
+          {%- endif -%}
+
+          <p style="text-align: center; margin-bottom: 40px">
+            <a href="https://www.kamperh.com/">Herman Kamper</a>
+          </p>          
+          
+          {{ content }}
+
+        </div>
+      </div>
+    </main>
+
+    <!-- Adapted from footer.html -->
+    <footer class="site-footer h-card" style="border-top: none; padding-bottom: 0;">
+      <data class="u-url" href="{{ "/" | relative_url }}"></data>
+      <div class="wrapper">
+        <div class="footer-col-wrapper">
+          <div class="footer-col" style="font-size: 0.85rem;">
+            Website updated on {{ site.time | date: "%d %B %Y" }}.
+          </div>
+        </div>
+      </div>
+    </footer>
+    
+  </body>
+
+</html>
