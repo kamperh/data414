@@ -171,6 +171,7 @@ I use these notes when presenting the above material in in-person lectures.
 
 These videos are heavily inspired by three courses: the
 [MLPR](https://www.inf.ed.ac.uk/teaching/courses/mlpr/2018/notes/) course
+([Wayback Machine archive](https://web.archive.org/web/20240623010055/https://www.inf.ed.ac.uk/teaching/courses/mlpr/2018/notes/))
 taught by [Iain Murray](https://homepages.inf.ed.ac.uk/imurray2/) at the
 University of Edinburgh; the machine learning course taught by [Greg
 Shakhnarovich](https://home.ttic.edu/~gregory/) at
